@@ -18,7 +18,7 @@ function SingleValue(){
                 }
                 
         }
-        return 0;
+        return null;
 
 }
-alert(SingleValue())
+window.alert(SingleValue())
